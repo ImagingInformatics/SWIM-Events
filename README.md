@@ -1,10 +1,10 @@
 # SWIM-Events
 The SIIM Workflow Initiative in Medicine (SWIM™) is a Society for Imaging Informatics in Medicine sponsored initiative with initial goals of developing:
 
-    A common definition of the workflow steps within medical imaging departments;
-    Key performance indicators that are defined using these workflow steps;
-    Definitions of the data elements used to capture information about the workflow steps associated with these key performance indicators; and
-    A prioritized plan for implementation.
+   a. common definition of the workflow steps within medical imaging departments;
+    b. Key performance indicators that are defined using these workflow steps;
+    c. Definitions of the data elements used to capture information about the workflow steps associated with these key performance indicators; and
+    d. A prioritized plan for implementation.
 
 Several SIIM corporate members (Agfa Healthcare, Carestream, GE Healthcare, Siemens, Toshiba) have been at the forefront, working together with SIIM, researchers and providers to develop the processes and dashboards to improve provider performance and enhance quality patient care.
 
